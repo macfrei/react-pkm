@@ -1,0 +1,182 @@
+[
+  {
+    "name": "bulbasaur",
+    "types": ["grass", "poison"],
+    "id": 1,
+    "images": {
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.png"
+    }
+  },
+  {
+    "name": "ivysaur",
+    "types": ["grass", "poison"],
+    "id": 2,
+    "images": {
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/2.png"
+    }
+  },
+  {
+    "name": "venusaur",
+    "types": ["grass", "poison"],
+    "id": 3,
+    "images": {
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/3.png"
+    }
+  },
+  {
+    "name": "charmander",
+    "types": ["fire"],
+    "id": 4,
+    "images": {
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/4.png"
+    }
+  },
+  {
+    "name": "charmeleon",
+    "types": ["fire"],
+    "id": 5,
+    "images": {
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/5.png"
+    }
+  },
+  {
+    "name": "charizard",
+    "types": ["fire", "flying"],
+    "id": 6,
+    "images": {
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/6.png"
+    }
+  },
+  {
+    "name": "squirtle",
+    "types": ["water"],
+    "id": 7,
+    "images": {
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/7.png"
+    }
+  },
+  {
+    "name": "wartortle",
+    "types": ["water"],
+    "id": 8,
+    "images": {
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/8.png"
+    }
+  },
+  {
+    "name": "blastoise",
+    "types": ["water"],
+    "id": 9,
+    "images": {
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/9.png"
+    }
+  },
+  {
+    "name": "caterpie",
+    "types": ["bug"],
+    "id": 10,
+    "images": {
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/10.png"
+    }
+  },
+  {
+    "name": "metapod",
+    "types": ["bug"],
+    "id": 11,
+    "images": {
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/11.png"
+    }
+  },
+  {
+    "name": "butterfree",
+    "types": ["bug", "flying"],
+    "id": 12,
+    "images": {
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/12.png"
+    }
+  },
+  {
+    "name": "weedle",
+    "types": ["bug", "poison"],
+    "id": 13,
+    "images": {
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/13.png"
+    }
+  },
+  {
+    "name": "kakuna",
+    "types": ["bug", "poison"],
+    "id": 14,
+    "images": {
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/14.png"
+    }
+  },
+  {
+    "name": "beedrill",
+    "types": ["bug", "poison"],
+    "id": 15,
+    "images": {
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/15.png"
+    }
+  },
+  {
+    "name": "pidgey",
+    "types": ["normal", "flying"],
+    "id": 16,
+    "images": {
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/16.png"
+    }
+  },
+  {
+    "name": "pidgeotto",
+    "types": ["normal", "flying"],
+    "id": 17,
+    "images": {
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/17.png"
+    }
+  },
+  {
+    "name": "pidgeot",
+    "types": ["normal", "flying"],
+    "id": 18,
+    "images": {
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/18.png"
+    }
+  },
+  {
+    "name": "rattata",
+    "types": ["normal"],
+    "id": 19,
+    "images": {
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/19.png"
+    }
+  },
+  {
+    "name": "raticate",
+    "types": ["normal"],
+    "id": 20,
+    "images": {
+      "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+      "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/20.png"
+    }
+  }
+]
