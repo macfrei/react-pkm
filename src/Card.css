@@ -1,0 +1,26 @@
+.CardWrapper {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.Card {
+  padding: 8px;
+  border: 1px steelblue solid;
+  border-radius: 8px;
+}
+
+.TypeList {
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+  padding: 0;
+}
+
+.Type {
+  color: white;
+  background-color: steelblue;
+  border-radius: 4px;
+  padding: 6px;
+}
